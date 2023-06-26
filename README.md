@@ -24,6 +24,18 @@ Tampilan setelah pengurutan  algoritma buble sort dan waktu komputasinya :
 
 Pada kasus pengurutan buble sort di atas termasuk pada Worst Case (kasus terburuk). Hal ini dikarenakan urutan array yang acak dan nilai yang paling kecil berada pada bagian akhir array, sehingga memerlukan banyak sekali proses iterasi. Dimana pada kasus ini terdapat 65 kali iterasi yang pada masing-masing iterasi terdapat pengulangan proses pengurutan sebanyak n-1 dan waktu komputasinya sebesar 0.16 detik.
 
+Tampilan sebelum pengurutan insertion sort :
+
+<img width="941" alt="Screenshot 2023-06-26 202024" src="https://github.com/AbibRaifmuaffahIhwan/F55121043_Abib_UAS_PAAII/assets/109569005/6d14a73c-578a-4a97-8dc9-8a61bcf479c9">
+
+Tampilan sesudah pengurutan insertion sort dan waktu komputasinya :
+
+<img width="943" alt="Screenshot 2023-06-26 202035" src="https://github.com/AbibRaifmuaffahIhwan/F55121043_Abib_UAS_PAAII/assets/109569005/68fe875e-6e9c-49ea-b5bc-96ad9730e446">
+
+Pada kasus pengurutan insertion sort di atas termasuk pada Worst Case (kasus terburuk). Hal ini dikarenakan urutan array yang acak dan nilai yang paling kecil berada pada bagian akhir array, sehingga memerlukan banyak sekali proses iterasi. Dimana pada kasus ini terdapat 74 kali iterasi (sebanyak n) dengan waktu komputasinya adalah 0,03 detik.
+
+Jika dilakukan perbandingan pada dua algoritma di atas, maka algoritma insertion sort dianggap lebih mangkus (efisien) dibandingkan dengan algoritma buble sort, hal ini dibuktikan dengan waktu komputasinya, algoritma insertion sort lebih singkat melakukan pengurutan dibandingkan algoritma buble sort. Disamping itu metode insertion sort lebih cepat melakukan pengurutan karena langsung memilih nilai terkecil lalu menukarnya dengan nilai pada array tersebut dibandingkan algoritma buble sort yang mebandingkan bilangan array satu persatu.
+
 
 
      
