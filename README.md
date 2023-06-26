@@ -51,9 +51,13 @@ Tampilan sesudah pencarian rute terdekat dengan TSP serta waktu komputasinya :
 
 <img width="308" alt="Screenshot 2023-06-26 210228" src="https://github.com/AbibRaifmuaffahIhwan/F55121043_Abib_UAS_PAAII/assets/109569005/e7749b3b-d92e-48ae-b155-cb37ffb9daab">
 
+Pada kasus di atas didapatkan rute terdekat dengan jalur (2 -> 0 -> 1 -> 3) dan panjang jalurnya adalah 50 dengan waktu komputasinya selama 0,001 detik
+
 Tampilan proses iterasi dan hasil pencarian rute terdekat dengan algoritma Djikstra beserta waktu komputasinya :
 
 <img width="701" alt="Screenshot 2023-06-26 210244" src="https://github.com/AbibRaifmuaffahIhwan/F55121043_Abib_UAS_PAAII/assets/109569005/c83ba062-fbc9-4bfb-934e-427e36565dbf">
+
+Jika dibandingkan 2 algoritma di atas, algoritma TSP lebih mangkus (efisien) dibandingkan dengan algoritma Djikstra. Hal ini dibuktikan dengan waktu komputasi TSP lebih cepat (0,001 detik) dibandingkan dengan waktu komputasi algoritma Djikstra (0,035 detik). 
 
 
 
